@@ -1,8 +1,8 @@
-/* Body */
+
 body{
     background-color: #EDEDED; 
 }
-/* Navbar */
+
 .navbar{
     max-height: 57px; 
 }
@@ -38,7 +38,7 @@ a{
 .navbar-brand:hover{
 color: rgb(175, 175, 175) !important;
 }
-/* Images */
+
 img{
     width:100% !important;
     height:100% !important;
@@ -53,20 +53,20 @@ img{
     height:50% !important;
 }
 
-/* Title Class  */
+
 .title{
     color: #0BADA6;  
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder; 
     padding-top: 25px; 
 }
-/* Paragraph Element */
+
 p{
  color: #6D8092;
  font-family: Arial, Helvetica, sans-serif;
  font-size: 17px; 
 }
-/* Box Class */
+
 .box {
     margin-top: 60px; 
     margin-bottom: 62px; 
@@ -75,12 +75,12 @@ p{
     background-color: white; 
 
   }
-/* Table */
+
   .table{
     font-size: 15px; 
     border-top-color: white !important; 
 }
-/* Footer */
+
 footer{
 background-color: #666666; 
 border-top-style: solid; 
@@ -97,7 +97,7 @@ bottom: 0;
 width: 100%;
 padding-top: 15px; 
 }
-/* Media Queries */
+
 @media(max-width: 992px){
 .navbar-expand-lg{
 background-color: #0BADA6 !important;
